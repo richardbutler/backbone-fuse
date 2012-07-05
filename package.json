@@ -1,0 +1,13 @@
+{
+  "name": "backbone-fuse",
+  "version": "0.0.1",
+  "engines": {
+    "node": "0.6.6"
+  },
+  "dependencies":{
+    "underscore": "latest",
+    "backbone": "latest",
+    "mocha": "latest",
+    "should": "latest"
+  }
+}
